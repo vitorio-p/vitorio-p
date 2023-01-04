@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello traveller 👋
 
 <!--
 **vitorio-p/vitorio-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+i am vitorio, a frontend software engineer (swe) trainee @ foodpanda now! i started my swe journey proper this year.
+
+i graduated from university with a degree in mechanical engineering but decided to switch industry to software engineering. in my year 1, i delved a bit in C for a compulsory module. i enjoyed the process but i didn't score well - so i avoided any coding-related stuff from then on. along the way, i realised how important coding will be in the future - and slowly get my toes into the world of coding. in my last year of university, i intentionally took a final year project that requires me to code with MATLAB, and a database module with PostgreSQL.
+
+with a traineeship @ foodpanda, i have picked up 
+
+now, i am 
+
 -->
