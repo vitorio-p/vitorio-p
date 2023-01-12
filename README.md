@@ -1,6 +1,6 @@
 <h3 align="center">a budding frontend software engineer trainee from the little red dot, Singapore 🇸🇬</h3>
 
-- 🌱 learning **TypeScript**
+- 🌱 learning all things frontend, especially **TypeScript**
 
 - 📫 email me **vitorio.pan@gmail.com**
 
