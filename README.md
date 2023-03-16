@@ -1,4 +1,4 @@
-<h3 align="center">a frontend software engineer trainee from the little red dot, Singapore 🇸🇬</h3>
+<h3 align="center">a frontend software engineer from the little red dot, Singapore 🇸🇬</h3>
 
 - 🌱 learning all things frontend, especially **TypeScript**
 
